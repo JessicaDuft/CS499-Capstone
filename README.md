@@ -23,6 +23,7 @@ Demonstrates Front End Development skills
 <br/>
 <br/>
 <br/>
+
 **Enhancement Two**: 
 <br/>
 [**Data Structure ENHANCEMENT**](https://github.com/JessicaDuft/Data_Structure_Enhancement)
