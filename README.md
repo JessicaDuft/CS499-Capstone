@@ -54,6 +54,9 @@ See the images below for visual documentation of the changes implemented in this
 
  Previously admins were only able to add, edit, and delete trips. Following this software enhancement the foundation to maintain the rooms in the database is now available as the pages to make those changes are now rendering for the admin. As soon as the database is integrated in following enhancements, the admin will be able to easily add, update or delete rooms the same way they could manipulate trips prior to any enhancements. 
  <br />
+ **Code example from this enhancement (add-room component)** 
+ <br /> 
+ 
 The following components (A folder with an HTML, CSS, and a .ts file) and file were all added to complete this enhancement: 
 <br />
 **\travlr-admin\src\app\add-room (component)**
