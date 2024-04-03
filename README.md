@@ -7,6 +7,7 @@ The artifact used for all three enhancements is the Travlr GetAways web applicat
 **Enhancement One**: 
 <br />
 **Software Enhancement**
+[**SOFTWARE ENHANCEMENT**](https://github.com/JessicaDuft/Software_Enhancement)
 
 For the software enhancement portion of this artifact 'rooms' will be added to the admin page so that once the database is implemented (this will be done in a future enhancement) admins are able to add, edit or delete rooms in addition to trips. We will be adding a rooms link to the navigation bar which when clicked will list all of the rooms currently in the database and we will be adding add, edit, and delete pages for the admin. While the enhancements are purely visual for this portion of upgrades, they are necessary for the final product and will be fully functional at the end of all three enhancements. Building the web pages for displaying rooms, edit rooms, add rooms, and adding the link for rooms to the nav-bar showcases the ability to work across multiple languages using MEAN stack development practices to build an intuitive, easy to use SPA (singular page application) with client requirements prioritized. 
 
