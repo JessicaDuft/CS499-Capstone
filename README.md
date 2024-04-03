@@ -56,25 +56,25 @@ See the images below for visual documentation of the changes implemented in this
  <br />
 The following components (A folder with an HTML, CSS, and a .ts file) and file were all added to complete this enhancement: 
 <br />
-**C:\Users\jessi\travlr_final\travlr\travlr-admin\src\app\add-room (component)**
+**\travlr-admin\src\app\add-room (component)**
 <br />
-**C:\Users\jessi\travlr_final\travlr\travlr-admin\src\app\delete-room (component)**
+**\travlr\travlr-admin\src\app\delete-room (component)**
 <br />
-**C:\Users\jessi\travlr_final\travlr\travlr-admin\src\app\edit-room (component)**
+**\travlr-admin\src\app\edit-room (component)**
 <br />
-**C:\Users\jessi\travlr_final\travlr\travlr-admin\src\app\room-card (component)**
+**\travlr-admin\src\app\room-card (component)**
 <br />
-**C:\Users\jessi\travlr_final\travlr\travlr-admin\src\app\room-listing (component)**
+**\travlr\travlr-admin\src\app\room-listing (component)**
 <br />
-**C:\Users\jessi\travlr_final\travlr\travlr-admin\src\app\services\room-data.service.ts (file)**
+**\travlr\travlr-admin\src\app\services\room-data.service.ts (file)**
 <br />
 
 The following files were edited for this portion of the enhancement: 
 <br />
 
-**C:\Users\jessi\travlr_final\travlr\travlr-admin\src\app\app-router.module.ts  (Lines 4,7,11,18 and 24 were added)**
+**\travlr\travlr-admin\src\app\app-router.module.ts  (Lines 4,7,11,18 and 24 were added)**
 <br />
-**C:\Users\jessi\travlr_final\travlr\travlr-admin\src\app\app.module.ts (Lines 12,13,14,15,16,17,26,28,30,32 and 46 were added)** 
+**\travlr\travlr-admin\src\app\app.module.ts (Lines 12,13,14,15,16,17,26,28,30,32 and 46 were added)** 
 
 
 
