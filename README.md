@@ -7,6 +7,7 @@ The artifact used for all three enhancements is the Travlr GetAways web applicat
 **Enhancement One**: 
 <br />
 [**SOFTWARE ENHANCEMENT**](https://github.com/JessicaDuft/Software_Enhancement)
+<br/>
 Demonstrates ability to use Front End Development methods with client requirements priortized 
 
 
