@@ -25,7 +25,7 @@ Demonstrates Front End Development skills
 
 **Enhancement Two**: 
 <br/>
-[**Data Structure ENHANCEMENT**](https://github.com/JessicaDuft/Data_Structure_Enhancement)
+[**DATA STRUCTURE ENHANCEMENT**](https://github.com/JessicaDuft/Data_Structure_Enhancement)
 <br/>
 Created an MVC route and added an API endpoint for "Rooms" on the customer facing Express web application. 
 <br/>
