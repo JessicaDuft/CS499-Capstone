@@ -21,8 +21,7 @@ Demonstrates Front End Development skills
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 **Enhancement Two**: 
 <br/>
