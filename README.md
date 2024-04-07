@@ -31,7 +31,21 @@ Created an MVC route and added an API endpoint for "Rooms" on the customer facin
 <br/>
 Demonstrates Back End Development skills
 
+<br/>
+<br/>
 
+
+
+
+**Enhancement Three**
+<br/> 
+[**DATABASE ENHANCEMENT**](https://github.com/JessicaDuft/Database_Enhancement)
+<br/> 
+Created CRUD methods and tested functionality so that admins can now maintain the "Rooms" that are listed in their database. Added additional security measures to ensure only authorized users are able to perform these tasks. 
+<br/> 
+Demonstrates the ability to create, maintain, and enhance a database 
+<br/> 
+Demonstrates the ability to write code with a security mindset in place 
 
 
 
