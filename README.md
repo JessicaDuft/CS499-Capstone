@@ -29,7 +29,7 @@ Demonstrates Front End Development skills
 <br/>
 [**DATA STRUCTURE AND ALGORITHM ENHANCEMENT**](https://github.com/JessicaDuft/Data_Structure_Enhancement)
 <br/>
-Created an MVC route so that "Rooms" loads dynamically, added new endpoints /rooms, /sortUp, /sortDown and added a "Sort by Rate" feature on the /rooms page. 
+Created an MVC route so that "Rooms" loads dynamically on the customer facing Express web page, added new endpoints /rooms, /sortUp, /sortDown and added a "Sort by Rate" feature on the /rooms page. 
 <br/>
 Demonstrates Back End Development skills
 
